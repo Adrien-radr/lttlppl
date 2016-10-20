@@ -3,6 +3,8 @@
 *.lo
 *.o
 *.obj
+*.suo
+*.user
 
 # Precompiled Headers
 *.gch
@@ -27,3 +29,16 @@
 *.exe
 *.out
 *.app
+
+*.log
+bin/imgui.ini
+*.db
+*.opendb
+*.exp
+*.ilk
+*.iobj
+*.ipdb
+*.pdb
+*.tmp
+*.tlog
+*.idb
