@@ -1,5 +1,5 @@
 #include "src/device.h"
-#include "imgui\imgui.h"
+#include "imgui/imgui.h"
 
 class Scene2D : public Scene
 {
